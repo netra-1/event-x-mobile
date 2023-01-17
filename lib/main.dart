@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:khalti_flutter/khalti_flutter.dart';
-////////////hahsdjsad//////
+////////////hahsdjsad////////
 void main() {
   runApp(
     KhaltiScope(
